@@ -1,6 +1,6 @@
 # About the project
 
-This is a small responsive app to add and store your tasks. Besides adding tasks, a user can:
+This is a small responsive React app to add and store your tasks. Besides adding tasks, a user can:
 
 1. mark a task as completed;
 2. sort tasks by name and date;
